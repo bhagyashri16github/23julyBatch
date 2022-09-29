@@ -3,7 +3,6 @@ this is demo file in text
 topics coverd
 oops
 collectionframework
-string
 java
 
 new added in this file
